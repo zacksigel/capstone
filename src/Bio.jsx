@@ -5,15 +5,15 @@ const BioText = () => {
     return (
         <>
 <p class="bioheadline">Bio</p>
-<p class="biotext">The General Prologue to the Canterbury Tales by Geoffrey Chaucer introduces a group of pilgrims on their way to Canterbury, 
-  and among them is a young and handsome squire named Zack. Zack is the son of a wealthy landowner, and he has recently joined the pilgrimage as a way to gain experience and make a name for himself.</p>
-<p class="biotext">Zack is a skilled fighter and an accomplished horseman, but he is also known for his wit and charm. 
-  He is well-dressed and carries himself with confidence, and his good looks and magnetic personality quickly make him popular among the other pilgrims.</p>
-<p class="biotext">Despite his youth and inexperience, Zack is determined to prove himself on the journey to Canterbury. 
-  He hopes to demonstrate his courage and chivalry, and he is eager to make friends and forge alliances with the other travelers.</p>
-<p class="biotext">As the group sets off on their journey, Zack quickly becomes a favorite among the other pilgrims. 
-  He strikes up friendships with several of them, including the Knight and the Prioress, who are both impressed by his youthful energy and enthusiasm.</p>
-<p class="biotext">Overall, Zack is a welcome addition to the group of pilgrims, and his presence helps to enliven the journey to Canterbury.</p>
+<p class="biotext">Zack is a graduate from the New York University Tisch School of the Arts, where he studied film. After graduating, he began a career in media, 
+first as an editor for a global translations company, then as a freelance music journalist covering the metal community.</p>
+<p class="biotext">Now he works as the chief content strategist for M1 Finance, a tech startup that offers tools to invest, borrow, and save. 
+  His experience helping to build tech products on the marketing side led to his interest in developing them on the engineering side.</p>
+<p class="biotext">As a software engineer, Zack prefers to write clean, efficient code that just works. He is competent in several coding languages,
+but he intends to focus on React and TypeScript as his next area of growth.</p>
+<p class="biotext">In his free time, Zack writes screenplays, travels internationally, and plays PS5. He has a beginner-to-intermediate fluency in Japanese,
+which he started learning during the Covid-19 pandemic. Zack is currently based out of Crown Heights, Brooklyn.</p>
+<p class="biotext">This website is a nod to the campy, minimalist aesthetic of gothic, early-2000s design.</p>
 </>
 )}
 
